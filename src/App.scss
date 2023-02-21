@@ -219,11 +219,11 @@ footer {
 }
 
 .blog {
-    margin-top: 24px;
     width: 640px;
 
     .blog__details {
         .blog__header {
+            margin-top: 24px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -284,6 +284,7 @@ footer {
         }
 
         .blog__body {
+            margin-top: 52px;
             font-family: 'New York Medium';
             font-style: normal;
             font-weight: 400;
@@ -304,12 +305,13 @@ footer {
 
 figcaption {
     text-align: center;
-    font-family: SF Pro Text;
+    font-family:inherit;
     font-size: 16px;
     font-weight: 500;
     line-height: 22px;
     letter-spacing: 0em;
     text-align: center;
+    margin-top: 16px;
 
 }
 
@@ -475,13 +477,14 @@ li {
             position: absolute;
             border: 1px solid black;
             background-color: black;
-            width: 110%;
+            width: 100%;
             bottom: -67px;
         }
     }
 
 }
 figure{
+    margin: 0px;
     margin-top: 52px;
 }
 .dottedhr {
