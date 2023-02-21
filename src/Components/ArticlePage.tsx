@@ -104,24 +104,6 @@ const ArticlePage = () => {
             <p>Thanks for reading,</p>
             <p>Mika</p>
           </div>
-          {/* <div className="blog__header">
-            <div className="blog__user">
-              <img src="image 3.png" alt="image3" />
-              <div className="user__details">
-                <p className="user__name">MIKA MATIKAINEN</p>
-                <p className="user__blogtime">Apr 15, 2020 · 4 min read</p>
-                <p></p>
-              </div>
-            </div>
-            <div className="blog__media">
-              <button className="media__button">
-                <img src="fb.png" alt="facebook" className="media__image" />
-              </button>
-              <button className="media__button">
-                <img src="tw.png" alt="twitter" className="media__image" />
-              </button>
-            </div>
-          </div> */}
         </div>
       </section>
       <section className="mediacard">
