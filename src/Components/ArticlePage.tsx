@@ -1,6 +1,6 @@
 import React from "react";
 import Articles from "./master/Articles";
-
+import './Article.scss'
 const ArticlePage = () => {
   return (
     <>
