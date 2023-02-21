@@ -14,8 +14,6 @@ nav {
     align-items: center;
     padding: 40px 60px;
 
-    .logo {}
-
     ul {
         display: flex;
         justify-content: flex-end;
@@ -481,7 +479,9 @@ li {
     }
 
 }
-
+figure{
+    margin-top: 52px;
+}
 .dottedhr {
     border: 1px dashed #afafaf
 }
